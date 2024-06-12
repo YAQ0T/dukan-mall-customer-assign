@@ -1,6 +1,6 @@
 import React from "react";
-import { BurgerMenu } from "../../components/burger-menu/BurgerMenu";
-import { Logo } from "../../components/logo/Logo";
+import { BurgerMenu } from "./../burger-menu/BurgerMenu";
+import { Logo } from "./../logo/Logo";
 import styles from "./styles/Header.module.css";
 const Header = () => {
   return (
