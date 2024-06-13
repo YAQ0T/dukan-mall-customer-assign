@@ -11,3 +11,6 @@
 .header * {
   color: var(--secondary-color);
 }
+.emptyBox {
+  width: 10%;
+}

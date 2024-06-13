@@ -4,9 +4,7 @@ import { LoyaltyCustomerForm } from "../../../components/loyality-customer-form/
 export const Main = () => {
   return (
     <main className={styles.main}>
-      <div className="container">
-        <LoyaltyCustomerForm />
-      </div>
+      <LoyaltyCustomerForm />
     </main>
   );
 };
